@@ -26,7 +26,7 @@ A dynamic Excel dashboard designed to explore and visualize coffee shop sales da
 - Monthly sales trends showed seasonal peaks, especially during early and mid-year months.
 - **Allis Wilmore** emerged as the top customer, generating the highest individual sales.
 - Non-loyalty card holders generated slightly more sales than loyalty members, indicating room to grow the loyalty program.
-- The majority of sales were driven by coffee sizes **1.0 Kg** and **2.5 Kg**, and roast types like Dark and Medium.
+- The majority of sales were driven by coffee sizes **1.0 Kg** and **2.5 Kg**, and roast types like **Dark** and **Medium**.
 
 ## Final Conclusion
 The interactive Coffee Sales Dashboard provides a comprehensive view of the shop’s performance across multiple dimensions — product type, geography, customer loyalty, and time. Key insights reveal that Excelsa is the top-performing coffee type, the United States dominates overall sales, and repeat high-value customers play a crucial role in revenue. While non-loyalty customers lead in total sales, there’s strong potential to enhance loyalty program engagement. These findings can guide the coffee shop’s strategies for product focus, customer retention, and regional expansion in the future.
