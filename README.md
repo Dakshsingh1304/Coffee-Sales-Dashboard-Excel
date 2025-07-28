@@ -1,5 +1,5 @@
 # Coffee-Sales-Dashboard-Excel
-A dynamic Excel dashboard designed to explore and visualize coffee shop sales data. The project features XLOOKUP, pivot charts, slicers, and timelines, along with thorough data cleaning and transformation to uncover insights like top-performing countries, peak sales months, and top customers.
+An interactive Excel dashboard project designed to analyze coffee shop sales across regions, customer segments, and product categories. The dashboard helps identify sales trends, top customers, and performance by loyalty card usage and coffee type.
 ## Data Set Used
 - <a href="https://github.com/Dakshsingh1304/Coffee-Sales-Dashboard-Excel/blob/main/coffeeOrdersData%20Project.xlsx">Dataset</a>
 ## Dashboard
