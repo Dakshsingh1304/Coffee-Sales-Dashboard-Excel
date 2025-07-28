@@ -6,7 +6,7 @@ A dynamic Excel dashboard designed to explore and visualize coffee shop sales da
 <img width="1483" height="645" alt="Coffee sales dashboard" src="https://github.com/user-attachments/assets/1361871f-34ff-4533-ae57-c79bf1d42750" />
 
 ## Process 
-1**.Data Cleaning:** Verified and cleaned raw data for missing values and inconsistencies.
+1 **Data Cleaning:** Verified and cleaned raw data for missing values and inconsistencies.
 
 2.**Data Integration:** Used XLOOKUP to fetch required columns from the Product and Customer sheets into the main Order data.
 
